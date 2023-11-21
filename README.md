@@ -50,4 +50,4 @@ Testbench is also included for function verifivation before using the real board
 
 ## Acknowledgments
 
-  - Thank you for instructor from FPGA honor class provides the develop board
+  - Prof. Wang from FPGA honor class provides the Altera DE1-SOC develop board
