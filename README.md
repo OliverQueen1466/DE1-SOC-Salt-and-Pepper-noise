@@ -7,8 +7,10 @@ results of image processing, particularly in edge detection algorithms. The medi
 filtering algorithm is a non-linear smoothing algorithm based on the theory of
 statistical ranking. It can effectively smooth noise and has a good filtering effect on
 salt-and-pepper noise, while preserving the edge information of the image. Therefore, it is widely used in edge extraction in digital image processing.
-![before](https://github.com/OliverQueen1466/Storage_Image/blob/main/sallt_pepper/before.png)
-![after](https://github.com/OliverQueen1466/Storage_Image/blob/main/sallt_pepper/afterr.png)
+<div style="display:inline-block">
+  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/sallt_pepper/before.png" alt="image1">
+  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/sallt_pepper/afterr.png" alt="image2">
+</div>
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
