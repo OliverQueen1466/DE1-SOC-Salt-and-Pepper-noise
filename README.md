@@ -11,6 +11,7 @@ salt-and-pepper noise, while preserving the edge information of the image. There
   <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/sallt_pepper/before.png" alt="image1" width="400">
   <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/sallt_pepper/afterr.png" alt="image2" width="400">
 </div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">Figure with(left) and without(right) the salt pepper noise</center>
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
